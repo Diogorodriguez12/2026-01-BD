@@ -28,3 +28,5 @@
     SELECT * FROM ...;
     SELECT * FROM ...;
 - `Es importante que creen la rama y el archivo respuesta.sql con esa estructura dada por el docente`
+- Hacer el push a su rama en git
+- Hacer el Pull Request para el fork del repositorio del docente
